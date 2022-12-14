@@ -1,5 +1,6 @@
 # English-to-Malayalam-Machine-Translation
 Since, there aren’t many machine translation tools available for English to Malayalam translation, there is a need to create one.
+
 Rule-based, statistical and neural machine translation have been used in this field which is the starting point for the creation of the model.
 
 Here, in this project, I used Google Translator to build a Machine translator for translating text from English to Malayalam. 
